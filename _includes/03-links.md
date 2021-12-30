@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+![Github Profile](https://github.com/tfree87)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
